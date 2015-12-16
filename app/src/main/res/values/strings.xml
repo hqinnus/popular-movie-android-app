@@ -1,4 +1,9 @@
 <resources>
-    <string name="app_name">PopularMovieApplication</string>
+    <string name="app_name">Popular Movies</string>
+
     <string name="action_settings">Settings</string>
+
+    <string name="list_movie_image_description">This is the ImageView for listing movie thumbnail.</string>
+
+
 </resources>
